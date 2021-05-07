@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>vscode on Brian&#39;s Dev Dumping Ground</title>
-    <link>http://example.org/tags/vscode/</link>
+    <link>https://inspiring-nightingale-7b6b8b.netlify.app/tags/vscode/</link>
     <description>Recent content in vscode on Brian&#39;s Dev Dumping Ground</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 May 2021 14:28:07 +0000</lastBuildDate><atom:link href="http://example.org/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 May 2021 14:28:07 +0000</lastBuildDate><atom:link href="https://inspiring-nightingale-7b6b8b.netlify.app/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learnings - May 6 2021</title>
-      <link>http://example.org/posts/may-6-2021/</link>
+      <link>https://inspiring-nightingale-7b6b8b.netlify.app/posts/may-6-2021/</link>
       <pubDate>Thu, 06 May 2021 14:28:07 +0000</pubDate>
       
-      <guid>http://example.org/posts/may-6-2021/</guid>
+      <guid>https://inspiring-nightingale-7b6b8b.netlify.app/posts/may-6-2021/</guid>
       <description> firebase vs amplify - both simplify cloud app dev with deploy, cicd, storage,auth featurees.  amplify is aws, firebase is google   vscode shortcuts ( windows keyboard on mac )  alt j - toggle terminal alt b - toggle explorer window,shift, o - remove unused imports   hugo supports tags, categories out of the box show hidden file on finder(mac) - alt-shift   </description>
     </item>
     
