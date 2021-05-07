@@ -6,7 +6,16 @@
     <description>Recent content on Brian&#39;s Dev Dumping Ground</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 May 2021 14:28:07 +0000</lastBuildDate><atom:link href="https://inspiring-nightingale-7b6b8b.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 May 2021 20:05:33 +0000</lastBuildDate><atom:link href="https://inspiring-nightingale-7b6b8b.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>May7 2021</title>
+      <link>https://inspiring-nightingale-7b6b8b.netlify.app/posts/05-2021/may7-2021/</link>
+      <pubDate>Fri, 07 May 2021 20:05:33 +0000</pubDate>
+      
+      <guid>https://inspiring-nightingale-7b6b8b.netlify.app/posts/05-2021/may7-2021/</guid>
+      <description> bizarre node-gyp errors and incompatibility issues with node-sass  use nvm and changed version to 12.13    </description>
+    </item>
+    
     <item>
       <title>Learnings - May 6 2021</title>
       <link>https://inspiring-nightingale-7b6b8b.netlify.app/posts/may-6-2021/</link>
