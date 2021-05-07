@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brian&#39;s Dev Dumping Ground</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Brian&#39;s Dev Dumping Ground</description>
+    <title>vscode on Brian&#39;s Dev Dumping Ground</title>
+    <link>http://example.org/tags/vscode/</link>
+    <description>Recent content in vscode on Brian&#39;s Dev Dumping Ground</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 May 2021 14:28:07 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 May 2021 14:28:07 +0000</lastBuildDate><atom:link href="http://example.org/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learnings - May 6 2021</title>
       <link>http://example.org/posts/may-6-2021/</link>
@@ -14,15 +14,6 @@
       
       <guid>http://example.org/posts/may-6-2021/</guid>
       <description> firebase vs amplify - both simplify cloud app dev with deploy, cicd, storage,auth featurees.  amplify is aws, firebase is google   vscode shortcuts ( windows keyboard on mac )  alt j - toggle terminal alt b - toggle explorer window,shift, o - remove unused imports   hugo supports tags, categories out of the box show hidden file on finder(mac) - alt-shift   </description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Wed, 05 May 2021 14:04:09 +0000</pubDate>
-      
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>Learning hugo and netlify</description>
     </item>
     
   </channel>
