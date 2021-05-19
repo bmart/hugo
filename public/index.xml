@@ -6,7 +6,27 @@
     <description>Recent content on Brian&#39;s Dev Dumping Ground</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 May 2021 20:05:33 +0000</lastBuildDate><atom:link href="https://inspiring-nightingale-7b6b8b.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 May 2021 13:56:31 +0000</lastBuildDate><atom:link href="https://inspiring-nightingale-7b6b8b.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learnings for May 19</title>
+      <link>https://inspiring-nightingale-7b6b8b.netlify.app/posts/05-2021/may19-2021/</link>
+      <pubDate>Wed, 19 May 2021 13:56:31 +0000</pubDate>
+      
+      <guid>https://inspiring-nightingale-7b6b8b.netlify.app/posts/05-2021/may19-2021/</guid>
+      <description>  cool way to map query elements into function handlers
+ return [ ...document.querySelectorAll(`[{some-property}]`) ].map(this.toComponent.bind(this))    css - how to do wavy line
+ text-decoration: plum underline wavy;    </description>
+    </item>
+    
+    <item>
+      <title>Django Compressor and GCP</title>
+      <link>https://inspiring-nightingale-7b6b8b.netlify.app/posts/05-2021/may13-2021/</link>
+      <pubDate>Thu, 13 May 2021 14:32:03 +0000</pubDate>
+      
+      <guid>https://inspiring-nightingale-7b6b8b.netlify.app/posts/05-2021/may13-2021/</guid>
+      <description>Background  ./manage compress -f runs through your templates using COMPRESS_OFFLINE_CONTEXT to populate template variables that lie within @compress template tags. when it finds a resource that needs to be included inline, it uses the path to the resource as a manifest key and uses the file contents as the &amp;lsquo;value&amp;rsquo;. This is all stored in manifest.json it also takes other resources that are not inline and compreses them into hashed file names in the CACHE folder  issue in GCP  depending on configuration, gloud will append querystring auth params to your resource as a link in the template at runtime  this happens at runtime - so the template tag compress might be looking for href=&amp;lsquo;foo.</description>
+    </item>
+    
     <item>
       <title>May7 2021</title>
       <link>https://inspiring-nightingale-7b6b8b.netlify.app/posts/05-2021/may7-2021/</link>
