@@ -6,7 +6,17 @@
     <description>Recent content on Brian&#39;s Dev Dumping Ground</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 May 2021 13:56:31 +0000</lastBuildDate><atom:link href="https://inspiring-nightingale-7b6b8b.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 May 2021 13:21:08 +0000</lastBuildDate><atom:link href="https://inspiring-nightingale-7b6b8b.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learnings May 20 2021</title>
+      <link>https://inspiring-nightingale-7b6b8b.netlify.app/posts/05-2021/learnings-may-20-2021/</link>
+      <pubDate>Thu, 20 May 2021 13:21:08 +0000</pubDate>
+      
+      <guid>https://inspiring-nightingale-7b6b8b.netlify.app/posts/05-2021/learnings-may-20-2021/</guid>
+      <description>Advanced django training - https://django-advanced-training.readthedocs.io/en/latest/
+ The as_view method creates and returns a new function that is used as a Django view. Here we can see that even class-based views are simply just function-based views when they are actually used MRO - algorithm for determining which class to call in multiple inheritance Django&amp;rsquo;s signal dispatcher allows senders to notify receivers (or handlers) that an action has occurred. This is helpful for decoupling code and when you have different pieces of code that are interested in the same event.</description>
+    </item>
+    
     <item>
       <title>Learnings for May 19</title>
       <link>https://inspiring-nightingale-7b6b8b.netlify.app/posts/05-2021/may19-2021/</link>
